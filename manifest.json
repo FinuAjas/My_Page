@@ -1,0 +1,22 @@
+{
+    "name" : "Finu Ajas",
+    "short_name" : "Finu Ajas",
+    "start_url" : ".",
+    "background_color" : "#ffffff",
+    "theme_color" : "#f6e05e",
+    "display" : "standalone",
+    "scope": ".",
+    "description":"Full Stack Web App Developer.",
+    "icons" : [
+        {
+            "src" : "images/favicon192x192.png",
+            "sizes":"192x192",
+            "type": "image/png"
+        },
+        {
+            "src" : "images/favicon512x512.png",
+            "sizes" : "512x512",
+            "type" : "images/png"
+        }
+    ]
+}
